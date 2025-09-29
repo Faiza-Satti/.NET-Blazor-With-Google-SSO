@@ -3,7 +3,7 @@
 A sample Blazor application demonstrating how to integrate **Google Single Sign-On (OAuth 2.0 / OpenID Connect)** authentication in a Blazor Server / WebAssembly project.
 ---
 
-## ✅ Features
+## Features
 
 - Google authentication using OAuth 2.0 / OpenID Connect  
 - Secure sign-in / sign-out flows  
@@ -13,7 +13,7 @@ A sample Blazor application demonstrating how to integrate **Google Single Sign-
 
 ---
 
-## 🛠 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🧭 Setup & Configuration
+## Setup & Configuration
 
 1. **Register OAuth credentials on Google Console**  
    - Go to [Google API Console](https://console.developers.google.com)  
@@ -60,7 +60,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🧩 How It Works
+## How It Works
 
 1. User clicks “Login with Google”  
 2. The OAuth 2.0 flow is triggered — user is sent to Google’s login consent page  
@@ -72,7 +72,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 ```bash
 # Clone the repo
